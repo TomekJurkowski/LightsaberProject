@@ -4,7 +4,7 @@ LightsaberProject
 This project is a dream come true for any Star Wars fan. With Teensy 3.1 microcontroller serving as its heart, this lightsaber is a really cool and interactive toy. And building it was just as much fun as using it!
 
 Short description of what the lightsaber can do:
-The lightsaber will gradually turn on/off when the red button is pressed. It emits 'saber-like' sounds. The tone will alter depending on how fast you wave the weapon. Unfortunately,t doesn't cut (like the lightsabers from the movies) - I am still working on that feature :P
+The lightsaber will gradually turn on/off when the red button is pressed. It emits 'saber-like' sounds. The tone will alter depending on how fast you wave the weapon. Unfortunately, the saber doesn't cut (like the lightsabers from the movies) - I am still working on that feature :P
 
 Elements used to build the lighsaber:
 * Teensy 3.1 microcontroller
